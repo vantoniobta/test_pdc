@@ -138,6 +138,7 @@ return array (
     'Magento_WishlistAnalytics' => 1,
     'Magento_WishlistSampleData' => 1,
     'Pdc_HelloPdc' => 1,
+    'Pulsestorm_HelloWorldMVVM' => 1,
     'Shopial_Facebook' => 1,
     'Temando_Shipping' => 1,
   ),
